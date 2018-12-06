@@ -18,4 +18,7 @@ article_three = Article.new("article_three", time, mary)
 article_four = Article.new("article_four", time, joe)
 article_five = Article.new("article_five", games, tim)
 
+
+# article_one.magazine == a
+
 Pry.start
